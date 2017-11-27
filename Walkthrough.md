@@ -1,6 +1,6 @@
 ## Walk through
 
-####Part 1 - Installation and Configuration
+#### Part 1 - Installation and Configuration
 Disclaimer: I am using Mac, so all the below steps are written with respect to Mac.  
 
 Step 1: Install Node.js  
@@ -54,7 +54,7 @@ npm start
 
 Head over to *http://localhost:3000* where you will see a Welcome to Express page.
 
-####Part 2 - Getting to "Hello, World!"
+#### Part 2 - Getting to "Hello, World!"
 
 Create a bunch of basic JS variables and tie them to certain packages, dependencies, node functionality and routes.   
 
@@ -180,7 +180,7 @@ Press `Ctrl`+`C` to kill the already running server
 
 Go to *http://localhost:3000/helloworld* to check out the hello world page
 
-####Part 3 - Create our Database and read stuff from it
+#### Part 3 - Create our Database and read stuff from it
 
 Step 1: Install Mongo.   
 Using Homebrew, type in `brew install mongodb`
@@ -284,7 +284,7 @@ Restart the server
 Press `Ctrl`+`C` to kill the already running server  
 `npm start` to restart the server
 
-####Part 4 - Writing to the DB
+#### Part 4 - Writing to the DB
 
 Step 1: Create Data Input
 
